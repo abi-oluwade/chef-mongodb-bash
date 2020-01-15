@@ -18,3 +18,9 @@ chef_version '>= 14.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/mongodb'
+
+# depends 'build-essential', '~> 8.2.1'
+# depends 'yum', '~> 5.1.0'
+# depends 'python', '~> 1.4.6'
+# depends 'apt', '~> 7.2.0'
+# depends 'sc-mongodb', '~> 1.2.0'
